@@ -1,0 +1,6 @@
+FLASK_APP=app:app
+SECRET_KEY=banana
+DB_USERNAME=sql10784486
+DB_PASSWORD=e9WqJEtq2j
+DB_HOST=sql10.freesqldatabase.com
+DB_DATABASE=sql10784486
